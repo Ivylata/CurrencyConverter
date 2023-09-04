@@ -1,6 +1,6 @@
 # CurrencyConverter
 
-This is a currency converter 
+This is a currency converter application
 
 HTML,CSS,JAVASCRIPT
 
